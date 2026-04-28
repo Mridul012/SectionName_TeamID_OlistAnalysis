@@ -41,7 +41,6 @@ The dashboard is powered by `data/final/tableau_ready_olist.csv` (96,470 rows ×
 3. Build the recommended views above
 4. Publish to Tableau Public and update this file with the live dashboard URL:
 
-**Dashboard URL:** `[To be updated after publishing]`
 
 ---
 
