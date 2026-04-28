@@ -213,13 +213,86 @@ The statistical analysis (notebook `04_statistical_analysis.ipynb`) includes thr
 
 ## 👥 Team Members & Roles
 
-| Role | Responsibility |
-|------|---------------|
-| **Member 1** — ETL Lead | Data extraction, cleaning pipeline, schema design |
-| **Member 2** — EDA Lead | Exploratory data analysis, chart generation |
-| **Member 3** — Statistical Analysis Lead | Correlation, hypothesis testing, regression |
-| **Member 4** — Dashboard Lead | Tableau dashboard design and implementation |
-| **Member 5** — Documentation Lead | Project report (PDF), presentation deck, README, data dictionary |
+*(Please replace placeholders with actual names and GitHub usernames)*
+
+| Role | Name | GitHub Username | Responsibility |
+|------|------|-----------------|---------------|
+| **Member 1** — ETL Lead | Shubhanshu dubey | `github-handle` | Data extraction, cleaning pipeline, schema design |
+| **Member 2** — EDA Lead | Om mishra | `github-handle` | Exploratory data analysis, chart generation |
+| **Member 3** — Statistical Analysis Lead | Karan rawat | `github-handle` | Correlation, hypothesis testing, regression |
+| **Member 4** — Dashboard Lead | Mridul | `github-handle` | Tableau dashboard design and implementation |
+| **Member 5** — Documentation Lead | ansh sharma | `github-handle` | Project report (PDF), presentation deck, README, data dictionary |
+
+---
+
+## 📊 Evaluation Rubric
+
+| Area | Marks | Focus |
+|---|---|---|
+| Problem Framing | 10 | Is the business question clear and well-scoped? |
+| Data Quality and ETL | 15 | Is the cleaning pipeline thorough and documented? |
+| Analysis Depth | 25 | Are statistical methods applied correctly with insight? |
+| Dashboard and Visualization | 20 | Is the Tableau dashboard interactive and decision-relevant? |
+| Business Recommendations | 20 | Are insights actionable and well-reasoned? |
+| Storytelling and Clarity | 10 | Is the presentation professional and coherent? |
+| **Total** | **100** | |
+
+> Marks are awarded for analytical thinking and decision relevance, not chart quantity, visual decoration, or code length.
+
+---
+
+## ✅ Submission Checklist
+
+**GitHub Repository**
+- [ ] Public repository created with the correct naming convention (`SectionName_TeamID_ProjectName`)
+- [ ] All notebooks committed in `.ipynb` format
+- [ ] `data/raw/` contains the original, unedited dataset
+- [ ] `data/processed/` contains the cleaned pipeline output
+- [ ] `tableau/screenshots/` contains dashboard screenshots
+- [ ] `tableau/dashboard_links.md` contains the Tableau Public URL
+- [ ] `docs/data_dictionary.md` is complete
+- [ ] `README.md` explains the project, dataset, and team
+- [ ] All members have visible commits and pull requests
+
+**Tableau Dashboard**
+- [ ] Published on Tableau Public and accessible via public URL
+- [ ] At least one interactive filter included
+- [ ] Dashboard directly addresses the business problem
+
+**Project Report & Presentation**
+- [ ] Final report exported as PDF into `reports/`
+- [ ] Final presentation exported as PDF into `reports/`
+- [ ] Contribution matrix matches GitHub history
+
+**Individual Assets**
+- [ ] DVA-oriented resume updated to include this capstone
+- [ ] Portfolio link or project case study added
+
+---
+
+## 🤝 Contribution Matrix
+
+*This table must match evidence in GitHub Insights, PR history, and committed files.*
+
+| Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
+|---|---|---|---|---|---|---|---|
+| Shubhanshu dubey | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| Om mishra | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| Karan rawat | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| Mridul | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| ansh sharma | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+
+_Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
+
+**Team Lead Name:** _____________________________
+
+**Date:** _______________
+
+---
+
+## ⚖️ Academic Integrity
+
+All analysis, code, and recommendations in this repository must be the original work of the team listed above. Free-riding is tracked via GitHub Insights and pull request history. Any mismatch between the contribution matrix and actual commit history may result in individual grade adjustments.
 
 ---
 
